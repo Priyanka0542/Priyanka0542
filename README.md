@@ -88,7 +88,7 @@ Every project I build starts with a real problem — whether it's helping patien
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,react,vite,bootstrap,tailwind,nodejs,express,fastapi,flask,mongodb,git,github,vercel,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,html,css,react,vite,bootstrap,tailwind,nodejs,express,fastapi,flask,mongodb,git,github,vercel,vscode&theme=dark&perline=10" />
 
 </div>
 
@@ -98,7 +98,7 @@ Every project I build starts with a real problem — whether it's helping patien
 <!-- FEATURED PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
 
 > 💬 *I focus on building projects that solve real problems and benefit real people — from healthcare to emotional wellness to digital preservation.*
 
@@ -255,7 +255,7 @@ A personal **developer portfolio** showcasing my projects, skills, and journey �
 <!-- CURRENTLY FOCUSED ON -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28" /> &nbsp;Currently Focused On
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> &nbsp;Currently Focused On
 
 - 📚 &nbsp;Sharpening **Core Java, SQL, and DSA** for campus placements
 - 🧩 &nbsp;Solving **graph algorithms and DP problems** in competitive programming
@@ -272,8 +272,8 @@ A personal **developer portfolio** showcasing my projects, skills, and journey �
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka0542/)
-[![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka0542@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medisetty-priyanka-33363a291/)
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankamedisetty05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka0542)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Priyanka0542/PORTFOLIO)
 
